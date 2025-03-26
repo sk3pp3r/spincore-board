@@ -14,7 +14,7 @@
     "url": "https://jolly-fenglisu-00c6b2.netlify.app/",
     "description": "Test your chmod skills with a terminal Quest.",
     "category": "Linux",
-    "screenshot": "auto",
+    "screenshot": "https://picsum.photos/200/300",
     "author": "Haim Cohen"
   },
   {
@@ -23,7 +23,7 @@
     "url": "https://simple-financial-tools.lovable.app/",
     "description": "Financial calculators for daily used",
     "category": "Financial",
-    "screenshot": "auto",
+    "screenshot": "https://picsum.photos/200/300",
     "author": "Haim Cohen"
   },
     {
@@ -32,7 +32,7 @@
     "url": "https://app---e7110df6.base44.app/",
     "description": "Plan Your Financial Future – Starting Today",
     "category": "Financial",
-    "screenshot": "auto",
+    "screenshot": "https://picsum.photos/200/300",
     "author": "Haim Cohen"
   },
       {
@@ -41,7 +41,7 @@
     "url": "https://app--key-flow-a2c0d420.base44.app/",
     "description": "An all-in-one app for managing your home purchase journey.",
     "category": "Financial",
-    "screenshot": "auto",
+    "screenshot": "https://picsum.photos/200/300",
     "author": "Haim Cohen"
   }
 ]
