@@ -1,6 +1,7 @@
 # 🌀 SpinCore Board
 
 Welcome to **SpinCore** – a rotating, digital bulletin board that showcases creative apps built by developers and AI builders alike.
+https://v0-spin-core-board-project.vercel.app/ 
 
 Each app is displayed as a **colorful rotating poster**, complete with:
 - 📸 Screenshot
