@@ -1,0 +1,29 @@
+[
+  {
+    "id": "1001",
+    "name": "Master AWS Security through interactive gameplay",
+    "url": "https://v0-aws-security-game.vercel.app/",
+    "description": "A hands-on learning experience that teaches AWS security by playing an interactive game.",
+    "category": "Cloud & Security",
+    "screenshot": "auto",
+    "author": "Haim Cohen"
+  },
+  {
+    "id": "1003",
+    "name": "Prompt Portfolio",
+    "url": "https://promptfolio.ai",
+    "description": "Turn your GPT prompts into a beautiful, sharable portfolio.",
+    "category": "Creativity",
+    "screenshot": "auto",
+    "author": "Itamar"
+  },
+  {
+    "id": "1004",
+    "name": "LangChain Visual Sandbox",
+    "url": "https://langchain-sandbox.vercel.app",
+    "description": "Visually build and test LangChain flows with drag-and-drop nodes.",
+    "category": "AI Dev Tools",
+    "screenshot": "auto",
+    "author": "Dana"
+  }
+]
