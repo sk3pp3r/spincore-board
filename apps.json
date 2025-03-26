@@ -9,21 +9,21 @@
     "author": "Haim Cohen"
   },
   {
-    "id": "1003",
-    "name": "Prompt Portfolio",
+    "id": "1002",
+    "name": "chmod Master: Terminal Quest",
     "url": "https://promptfolio.ai",
-    "description": "Turn your GPT prompts into a beautiful, sharable portfolio.",
-    "category": "Creativity",
+    "description": "Test your chmod skills with a terminal Quest.",
+    "category": "Linux",
     "screenshot": "auto",
-    "author": "Itamar"
+    "author": "Haim Cohen"
   },
   {
-    "id": "1004",
-    "name": "LangChain Visual Sandbox",
-    "url": "https://langchain-sandbox.vercel.app",
-    "description": "Visually build and test LangChain flows with drag-and-drop nodes.",
-    "category": "AI Dev Tools",
+    "id": "1003",
+    "name": "Financial Calcs",
+    "url": "https://simple-financial-tools.lovable.app/",
+    "description": "Financial calculators for daily used",
+    "category": "Financial",
     "screenshot": "auto",
-    "author": "Dana"
+    "author": "Haim Cohen"
   }
 ]
