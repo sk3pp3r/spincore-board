@@ -32,7 +32,7 @@
     "url": "https://app---e7110df6.base44.app/",
     "description": "Plan Your Financial Future – Starting Today",
     "category": "Financial",
-    "screenshot": "https://picsum.photos/200/300",
+    "screenshot": "https://raw.githubusercontent.com/sk3pp3r/spincore-board/main/screenshots/retirement.png",
     "author": "Haim Cohen"
   },
       {
@@ -41,7 +41,7 @@
     "url": "https://app--key-flow-a2c0d420.base44.app/",
     "description": "An all-in-one app for managing your home purchase journey.",
     "category": "Financial",
-    "screenshot": "https://picsum.photos/200/300",
+    "screenshot": "https://raw.githubusercontent.com/sk3pp3r/spincore-board/main/screenshots/keyflow.png",
     "author": "Haim Cohen"
   }
 ]
