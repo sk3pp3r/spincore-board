@@ -5,7 +5,7 @@
     "url": "https://v0-aws-security-game.vercel.app/",
     "description": "A hands-on learning experience that teaches AWS security by playing an interactive game.",
     "category": "Cloud & Security",
-    "screenshot": "https://github.com/sk3pp3r/spincore-board/blob/main/screenshots/cloud_guardian.jpg",
+    "screenshot": "https://raw.githubusercontent.com/sk3pp3r/spincore-board/main/screenshots/cloud_guardian.jpg",
     "author": "Haim Cohen"
   },
   {
