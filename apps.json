@@ -43,5 +43,14 @@
     "category": "Financial",
     "screenshot": "https://raw.githubusercontent.com/sk3pp3r/spincore-board/main/screenshots/keyflow.png",
     "author": "Haim Cohen"
-  }
+  },
+    {
+      "id": "1006",
+    "name": "Job CRM",
+    "url": "https://v0-hebrew-job-crm-system.vercel.app//",
+    "description": "Job opportunity management CRM.",
+    "category": "Career",
+    "screenshot": "https://raw.githubusercontent.com/sk3pp3r/spincore-board/main/screenshots/jobs_crm.png",
+    "author": "Haim Cohen"
+    }
 ]
