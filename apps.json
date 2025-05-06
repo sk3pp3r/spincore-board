@@ -61,5 +61,14 @@
      "category":"Career",
      "author":"Haim Cohen",
      "screenshot": "https://raw.githubusercontent.com/sk3pp3r/spincore-board/main/screenshots/linkpro.png"
-    }
+    },
+    {
+      "id": "1008",
+      "name": "Mystic Hand Whispers",
+      "url": "https://mystic-hand-whispers.lovable.app/",
+      "description": "Unveil the secrets hidden within your palm",
+      "category":"Fun",
+      "author":"Haim Cohen",
+      "screenshot": "https://raw.githubusercontent.com/sk3pp3r/spincore-board/main/screenshots/mystic_hand.png"
+     }
 ]
