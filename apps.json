@@ -63,7 +63,7 @@
      "screenshot": "https://raw.githubusercontent.com/sk3pp3r/spincore-board/main/screenshots/linkpro.png"
     },
     {
-      "id": "1009",
+      "id": "1008",
       "name": "Mortgage Simulator",
       "url": "https://v0-mortgage-simulator.vercel.app/",
       "description": "LinkedIn Guidance",
@@ -72,12 +72,21 @@
       "screenshot": "https://raw.githubusercontent.com/sk3pp3r/spincore-board/main/screenshots/mortgage-simulator.png"
      },
     {
-      "id": "1008",
+      "id": "1009",
       "name": "Mystic Hand Whispers",
       "url": "https://mystic-hand-whispers.lovable.app/",
       "description": "Unveil the secrets hidden within your palm",
       "category":"Fun",
       "author":"Haim Cohen",
       "screenshot": "https://raw.githubusercontent.com/sk3pp3r/spincore-board/main/screenshots/mystic_hand.png"
+     },
+      {
+      "id": "1010",
+      "name": "Sun System Planets",
+      "url": "https://v0-planets-data.vercel.app//",
+      "description": "Sun system planets for kids",
+      "category":"Fun",
+      "author":"Haim Cohen",
+      "screenshot": "https://raw.githubusercontent.com/sk3pp3r/spincore-board/main/screenshots/sun_system.png"
      }
 ]
