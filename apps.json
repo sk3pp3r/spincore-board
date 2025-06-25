@@ -88,5 +88,14 @@
       "category":"Fun",
       "author":"Haim Cohen",
       "screenshot": "https://raw.githubusercontent.com/sk3pp3r/spincore-board/main/screenshots/sun_system.png"
+     },
+        {
+      "id": "1011",
+      "name": "Job Hub",
+      "url": "https://app--job-hub-81a0dd46.base44.app/",
+      "description": "JobHub: Your Hub center for advancing your career",
+      "category":"Career",
+      "author":"Haim Cohen",
+      "screenshot": "https://raw.githubusercontent.com/sk3pp3r/spincore-board/main/screenshots/job-hub.png"
      }
 ]
